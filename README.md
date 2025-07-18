@@ -28,10 +28,10 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ## 📌 Key Insights
 
-- 📉 Some platforms offer **lower CPC** but **higher conversion rates**, optimizing acquisition cost.
-- 🎯 The **18–24 age group** often shows the highest impressions but not always the best ROAS.
-- 🧪 Video campaigns tend to have **higher engagement** but also higher CPM.
-- 💸 Seasonal fluctuations are evident, with **spikes in spend and impressions** near end-of-year months.
+-  Some platforms offer **lower CPC** but **higher conversion rates**, optimizing acquisition cost.
+-  The **18–24 age group** often shows the highest impressions but not always the best ROAS.
+-  Video campaigns tend to have **higher engagement** but also higher CPM.
+-  Seasonal fluctuations are evident, with **spikes in spend and impressions** near end-of-year months.
 
 ---
 
@@ -46,7 +46,8 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 
 ## 🖼️ Preview
 
-*(Insert screenshots here if desired)*
+<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/a0caa835-1c0c-470a-a8b6-791ca6108f06" />
+
 
 ---
 
