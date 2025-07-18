@@ -18,11 +18,11 @@ To explore and answer key business questions such as:
 ## 📁 Dataset Overview
 
 The dataset includes **1,000 rows** of PPC campaign performance data with these key features:
-- 📅 **Date**: When the campaign data was recorded  
-- 🖥 **Platform**: e.g., Instagram, Facebook, Google, etc.  
-- 🎯 **Targeting Info**: Age group, gender, region  
-- 📈 **Performance Metrics**: Impressions, Clicks, CTR, Conversions, CPA, CPC, Spend, ROAS  
-- 📦 **Content Type**: Image, Video, Carousel, etc.
+-  **Date**: When the campaign data was recorded  
+-  **Platform**: e.g., Instagram, Facebook, Google, etc.  
+-  **Targeting Info**: Age group, gender, region  
+- **Performance Metrics**: Impressions, Clicks, CTR, Conversions, CPA, CPC, Spend, ROAS  
+-  **Content Type**: Image, Video, Carousel, etc.
 
 ---
 
