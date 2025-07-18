@@ -40,13 +40,14 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 1. **Ads Overview** – High-level performance trends over time.  
 2. **Platform Analysis** – Compare CPC, CPM, and ROAS across different platforms.  
 3. **Audience Targeting** – Drill down by age, gender, and region.  
-4. **Campaign Type** – Analyze effectiveness by content and campaign objectives.
+
 
 ---
 
 ## 🖼️ Preview
 
-<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/a0caa835-1c0c-470a-a8b6-791ca6108f06" />
+<img width="1290" height="733" alt="image" src="https://github.com/user-attachments/assets/a0caa835-1c0c-470a-a8b6-791ca6108f06" />
+<img width="1290" height="733" alt="image" src="https://github.com/user-attachments/assets/0e3e1747-f82c-434e-9e70-e99b1370a4f3" />
 
 
 ---
