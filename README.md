@@ -72,5 +72,5 @@ The dataset includes **1,000 rows** of PPC campaign performance data with these 
 **Long Nguyen**  
 Triple major in Marketing, Business Analytics & Economic Consulting  
 Data-driven marketer passionate about turning complex data into actionable insights.  
-📍 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-📧 your.email@example.com
+📍 [LinkedIn](https://www.linkedin.com/in/long-nguyen-/)  
+📧 longnguyen.hhoang@gmail.com
